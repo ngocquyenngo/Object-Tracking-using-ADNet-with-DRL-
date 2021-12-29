@@ -1,4 +1,8 @@
-
+## Link download weight VGG-M
+vggm.pth weight (https://data.lip6.fr/cadene/pretrainedmodels/vggm-786f2434.pth)
+## link download datasets VOT, OTB
+https://www.votchallenge.net/challenges.html
+http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html
 ## Structure
 ```
 ├── datasets 
