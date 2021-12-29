@@ -38,7 +38,7 @@
 ```
 
 ## Usage examples
-*  ADNet - train with SL & RL
+*  ADNet - train 
     ```bash
     python mains_ADNet.py --visualize True
     ```
@@ -47,7 +47,7 @@
 
 *  ADNet_test
     ```bash
-    python main_ADNet_test.py --save_result_images results_on_test_images --display_images False
+    python mains_ADNet_test.py --save_result_images results_on_test_images --display_images False
     ```
 
 -------------------------------------------
